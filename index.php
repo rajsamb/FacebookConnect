@@ -22,8 +22,8 @@ $fb = new Facebook\Facebook([
 ]);
 
 $linkData = [
- 'link' => 'www.easynepalityping.com',
- 'message' => 'Type in English and Get in Nepali for FREE'
+ 'link' => 'www.easypunjabityping.com',
+ 'message' => 'Type in English and Get in Punjabi for FREE'
 ];
 //For Posting on my Profile:
 //$pageAccessToken ='EAAD64ktL4UIBALmxIGcRQXcOmTzg6Jm9ikoSVMs1oD7wjt7l8kow8JbIUU21ZCaBjXnciJfvB8tfsK0M4iGZCCMDf4OpaWIzBJlu7iZCgJnTZAXVFHFTHwcZAZCtNf1H5HnElJ1ZBjT7f4hCNv564Oo';//Connect
@@ -32,7 +32,10 @@ $linkData = [
 // $pageAccessToken ='EAAD64ktL4UIBANAW5RSD0tEaLrA3PoKGxoYZAKsLQfbiObXvLY1yNZCu7QWbrK3x9c08BODgIQGF4NxZCoo1iPV3YpOZBSnCpE0eh55ZASd5IAY7sFmWZC1aZAH0BrHSZBoYpmUUy8mYNcooNHFMnXAQjgCQFKj8ZCJMZD';//Connect Easy Bengali Tuyping
 
 //For Posting on Type in Nepali - Easy Nepali Typing
-$pageAccessToken = "EAAD64ktL4UIBANtouZAJMEZCqgfbrwn8rlishAQR4ZAzczcoRiTMSBfZCtvzPzTrNy1orGtmOizvdD25PxUIR4FMIXMKSJW2xxlydh5GkL4w388FlbuaijS79vCXSgRZBoZAADvCx9FGccf7ufoa8UhLaHiUj6kO0ZD"; //For posting on Type in Nepali - Easy Nepali Typing
+// $pageAccessToken = "EAAD64ktL4UIBANtouZAJMEZCqgfbrwn8rlishAQR4ZAzczcoRiTMSBfZCtvzPzTrNy1orGtmOizvdD25PxUIR4FMIXMKSJW2xxlydh5GkL4w388FlbuaijS79vCXSgRZBoZAADvCx9FGccf7ufoa8UhLaHiUj6kO0ZD"; //For posting on Type in Nepali - Easy Nepali Typing
+
+//Easy Hindi Typing
+$pageAccessToken = "EAAD64ktL4UIBAEzWFNXi4Op0iaWs96yd1olHol2sLPlBgM4u56RuZAnh7aoXF6EfI9ZBlrZCpnP7gNcJROFTSZAgTZAPN6co2RBhPfLxWLFUzNZAs76lAGkkPQV0yXzQIm4SrVQ1OlvBr59DS7KOqT2WXA3oNZBQDstK3ogFzVO4AZDZD";
 
 //For Any New, Follow steps below:
 //1. https://developers.facebook.com/tools/explorer/275849832816962
